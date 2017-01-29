@@ -5,8 +5,28 @@ Before we begin, let me preface this post by saying you can find information abo
 Now, on to your guide!
 
 # 1. Get the list of your campaigns
-First we need to get the list of campaigns in your Test & Target account. We will use this to iterate over our campaigns and get the data for each one. You can use the following API call to get the campaigns list in XML format, replacing `<clientId>`, `<youremail>`, and `<yourpassword>` with the appropriate information for your specific account.
+First we need to get the list of campaigns in your Test & Target account. We will use this to iterate over our campaigns and get the data for each one. You can use the following API call to get the campaigns list in XML format, replacing `CLIENTID`, `YOUREMAIL`, and `YOURPASSWORD` with the appropriate information for your specific account.
 
 ```
-https://testandtarget.omniture.com/api?client=%3CclientId%3E&email=%3Cyouremail%3E&password=%3Cyourpassword
+https://testandtarget.omniture.com/api?client=CLIENTID&email=YOUREMAIL&password=YOURPASSWORD
+```
+
+You will get back some XML that will look similar to this:
+
+```
+<campaigns>
+    <campaign>
+        <id>1234</id>
+        <name>
+            Sample Experiment Name
+        </name>
+        <thirdPartyId/>
+        <event>
+            <modificationDate>2013-01-01 07:26</modificationDate>
+            <modifierEmail>sample@domain.com</modifierEmail>
+            <modifierName>Test User</modifierName>
+            <description>archived the campaign</description>
+        </event>
+    </campaign>
+</campaigns>
 ```
