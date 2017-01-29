@@ -67,4 +67,24 @@ https://testandtarget.omniture.com/api?client=CLIENTID&email=YOUREMAIL&password=
 
 As before, you will need to replace `CLIENTID`, `YOUREMAIL`, and `YOURPASSWORD` with your account information.
 
-You will also need to put in the campaignId, which you grab from the XML in Step 1, and you need to format today’s date into YYYY-MM-DDTHH:mm and put it into TODAYSDATE.
+You will also need to put in the campaignId, which you grab from the XML in Step 1, and you need to format today’s date into YYYY-MM-DDTHH:mm and put it into `TODAYSDATE`.
+
+# 4. Download the Weekly Report
+This will be exactly the same as the daily report in Step 3, but the API call will need to be modified to include a “resolution” parameter. This is actually inferred to be “resolution=day” in the API call in Step 3, but we can set this to be “week” to get a weekly report.
+
+```
+https://testandtarget.omniture.com/api?client=CLIENTID&email=YOUREMAIL&password=YOURPASSWORD&operation=report&campaignId=CAMPAIGNID&start=2010-08-01T00:00&end=TODAYSDATE
+```
+
+# 5. Download the Audit Report
+This is probably the report you’re actually concerned about. This one only comes in CSV intead of XML like we’ve been doing the other reports.
+
+A quick note about this report, if you attempt to get this data 4 months after the end of the test, you may get an error. So, if you’re automatically overwriting any files during this process, you need to make sure you actually get some results back before saving it or you may lose your information.
+
+```
+https://testandtarget.omniture.com/api?client=CLIENTID&email=YOUREMAIL&password=YOURPASSWORD&operation=auditReport&campaignId=CAMPAIGNID&start=2010-08-01T00:00&end=TODAYSDATE
+```
+
+And that’s it! These calls are pretty simple, you’ll just need to build out a simple XML reader / parser to read through the API results.
+
+Again, you can find a wealth of information about the Test & Target API at [Omniture’s Test & Target API Developer area](https://developer.omniture.com/en_US/documentation/test-target/c-overview-7).
