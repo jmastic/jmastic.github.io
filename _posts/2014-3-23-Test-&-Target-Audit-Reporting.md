@@ -30,3 +30,41 @@ You will get back some XML that will look similar to this:
     </campaign>
 </campaigns>
 ```
+
+Now you need to just build an XML reader to loop through them and perform the steps below.
+
+# 2. Get the campaign's current status
+* optional – I'm calling this step optional because its not entirely necessary. I use the status to categorize and sort the campaigns, but you don’t need to do this.
+
+Now from the example above, it may not be entirely obvious how to get the status of the campaign. However, the <description> tag will have this information for you, you just need to know what may be returned.
+
+The <description> will hold the latest modification made to the status of the campaign, so we can use the wording of the status update to get the current status. The possible return values for a campaign <description> are:
+
+* approved the campaign
+* deactivated the campaign
+* deactivated and archived the campaign
+* archived the campaign
+
+Finding the current status from this is now a matter of looking for the right words in the right order:
+
+```
+if (campaignStatus.indexOf("archived") >= 0) {
+    /* Campaign is currently archived */
+} else if (campaignStatus.indexOf("deactivated") >= 0) {
+    /* Campaign is deactivated */
+} else if (campaignStatus.indexOf("approved") >= 0) {
+    /* Campaign is approved / running */
+}
+```
+
+# 3. Download the Daily Report
+There are 3 reports I download: the daily report, the weekly report, and the audit report. If you're really only concerned about one of them then go for it! I felt that these three reports together would give me the most information without being too over-the-top.
+
+So, for the daily report for a campaign, here is the API call to use:
+```
+https://testandtarget.omniture.com/api?client=CLIENTID&email=YOUREMAIL&password=YOURPASSWORD&operation=report&campaignId=CAMPAIGNID&start=2010-08-01T00:00&end=TODAYSDATE
+```
+
+As before, you will need to replace `CLIENTID`, `YOUREMAIL`, and `YOURPASSWORD` with your account information.
+
+You will also need to put in the campaignId, which you grab from the XML in Step 1, and you need to format today’s date into YYYY-MM-DDTHH:mm and put it into TODAYSDATE.
