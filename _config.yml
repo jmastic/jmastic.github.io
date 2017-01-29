@@ -19,7 +19,7 @@ avatar: https://github.com/identicons/jmastic.png
 footer-links:
   dribbble:
   email: jmastic@gmail.com
-  facebook:
+  facebook: jmastic
   flickr:
   github: jmastic
   instagram:
@@ -29,7 +29,7 @@ footer-links:
   twitter: jmastic
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: 110646789319732670399# anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
