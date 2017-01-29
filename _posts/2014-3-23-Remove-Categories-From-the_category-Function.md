@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remove categories from `the_category` function
+title: Remove categories from Wordpress' "the_category" function
 ---
 
 This is a somewhat pointed issue, but I just ran into it so I figured I'd share the solution I found.
