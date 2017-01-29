@@ -38,7 +38,7 @@ Now you need to just build an XML reader to loop through them and perform the st
 
 Now from the example above, it may not be entirely obvious how to get the status of the campaign. However, the <description> tag will have this information for you, you just need to know what may be returned.
 
-The <description> will hold the latest modification made to the status of the campaign, so we can use the wording of the status update to get the current status. The possible return values for a campaign <description> are:
+The `<description>` will hold the latest modification made to the status of the campaign, so we can use the wording of the status update to get the current status. The possible return values for a campaign `<description>` are:
 
 * approved the campaign
 * deactivated the campaign
@@ -61,6 +61,7 @@ if (campaignStatus.indexOf("archived") >= 0) {
 There are 3 reports I download: the daily report, the weekly report, and the audit report. If you're really only concerned about one of them then go for it! I felt that these three reports together would give me the most information without being too over-the-top.
 
 So, for the daily report for a campaign, here is the API call to use:
+
 ```
 https://testandtarget.omniture.com/api?client=CLIENTID&email=YOUREMAIL&password=YOURPASSWORD&operation=report&campaignId=CAMPAIGNID&start=2010-08-01T00:00&end=TODAYSDATE
 ```
