@@ -4,13 +4,14 @@ title: Resume
 permalink: /resume/
 ---
 
-# PROFESSIONAL SUMMARY
+## Professional Summary  
 *	Software development manager with 10 years of IT experience, including managing projects and teams of technical professionals in agile development environments
 *	Bachelor’s degree in Computer Science
 
-# WORK EXPERIENCE
+# Work Experience
 
 ## Manager of TV Apps Client Development  
+
 ### Nagrastar, LLC - 2016 - Present  
 * Manage the TV App Client Development team; directly supervise eight IT professionals and work cross-functionally with project managers and product managers to meet business objectives
 *	Led the development efforts for multiple high-profile applications showcased at CES in 2015 and 2016
@@ -18,6 +19,7 @@ permalink: /resume/
 *	Collaborate with technology vendors, including Microsoft and Samsung, to drive technology solutions to provide a better customer experience
 
 ## Senior Web Developer  
+
 ### Nagrastar, LLC - 2014-2016  
 *	Developed single page applications for use in the Pay TV industry; promoted to manager based on demonstrated leadership skills and ability to communicate effectively with all levels of the organization
 *	Deployed a GIT software control system to improve code quality, code visibility, and reduce application development time
@@ -30,6 +32,7 @@ permalink: /resume/
 *	Lead daily scrum meetings for the Development team
 
 ## Web Application Developer  
+
 ### Domino's Pizza World Resource Center - 2010-2012  
 *	Developed innovative web applications and staged an internal LMS; supported 5,000 stores
 *	Designed and developed an online portal to deliver operations-technology training
