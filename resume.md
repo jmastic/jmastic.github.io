@@ -13,6 +13,7 @@ permalink: /resume/
 
 ## Manager of TV Apps Client Development  
 **Nagrastar, LLC - 2016 - Present**  
+
 * Manage the TV App Client Development team; directly supervise eight IT professionals and work cross-functionally with project managers and product managers to meet business objectives
 *	Led the development efforts for multiple high-profile applications showcased at CES in 2015 and 2016
 *	Read and analyze complex technical documents including project requirements, design documentation, project timelines, and contracts; fill in for the scrum master when necessary
