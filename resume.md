@@ -55,6 +55,13 @@ BS, Computer Science; Eastern Michigan University
 * GIT/SVN
 * Agile Development
 
+## ACTIVITIES
+-------------
+* Former bass guitarist of rock bands “View” and “Death of a Hero”
+* Developed applications for use in Human Computer  Interaction research
+* Volunteer for the Colorado Pug Rescue
+* Freelance web developer
+
 ## CONTACT
 ---------
 [jmastic@gmail.com](mailto:jmastic@gmail.com)
