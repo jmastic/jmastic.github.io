@@ -4,12 +4,12 @@ title: Resume
 permalink: /resume/
 ---
 
-## Professional Summary
+## PROFESSIONAL SUMMARY
 -----------------------
 *	Software development manager with 10 years of IT experience, including managing projects and teams of technical professionals in agile development environments
 *	Bachelor’s degree in Computer Science
 
-## Work Experience
+## WORK EXPERIENCE
 -----------------
 
 ### Manager of TV Apps Client Development  
