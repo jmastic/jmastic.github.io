@@ -57,5 +57,4 @@ BS, Computer Science; Eastern Michigan University
 
 ## CONTACT
 ---------
-* [jmastic@gmail.com](mailto:jmastic@gmail.com)
-* Parker, CO
+[jmastic@gmail.com](mailto:jmastic@gmail.com)
