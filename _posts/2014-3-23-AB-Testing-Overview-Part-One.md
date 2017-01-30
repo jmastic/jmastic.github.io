@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A/B Testing Overview: Part One
+title: A/B Testing Overview - Part One
 ---
 
 A/B testing, or split testing, is a common practice for companies looking to increase conversion rates on their website. Conversion Rate is the ratio of visitors who convert content views or website visits into desired actions (typically sales or leads). In part one of my A/B testing post series I will show you a few of the resources that I have found incredibly helpful.
