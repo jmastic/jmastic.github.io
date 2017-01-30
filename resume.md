@@ -11,5 +11,5 @@ permalink: /resume/
 # WORK EXPERIENCE
 
 ## Manager of TV Apps Client Development
-*Nagrastar, LLC*
-*2016 - Present*
+_Nagrastar, LLC_  
+_2016 - Present_
