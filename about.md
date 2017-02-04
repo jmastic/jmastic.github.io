@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: My name is Justin Mastic.
 permalink: /about/
 ---
-
-Hi, my name is Justin Mastic.  
 
 As a software development manager and web developer with over eight years of experience working in agile corporate and startup environments, I understand how to balance the needs of developers, management, and clients.  
 
