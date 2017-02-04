@@ -14,7 +14,7 @@ My experience encompasses management, web development, single page app developme
 
 ### Key Accomplishments
 * Led the development efforts for multiple applications showcased at CES in 2015 and 2016
-* Promoted from a Senior Web Developer to the Manager of TV Apps Development based on demonstrated leadership abilities; oversaw the development of multiple pay TV apps
+* Promoted from a Senior Web Developer to the Manager of TV Apps Development based on demonstrated leadership abilities; oversaw the development of multiple pay-TV apps
 * Implemented a new application build system to reduce errors during the application release process
 * Increased the conversion rate by over 70% by implementing A/B testing for Beyond Diet, an online health community
 * Designed innovative web applications, including an online portal, leaderboards, and a virtual rewards system, for Domino’s Pizza, a chain with approximately 5,000 units
