@@ -108,37 +108,37 @@
 
 ## Richard's Top 10 Summary
 1. Follow your dreams and just do it
-* You will live a much better life if you 'just do it' and pursue your passions.
+> You will live a much better life if you 'just do it' and pursue your passions
 
 2. Make a positive difference and do some good
-* If you aren't making a positive difference to other people's lives, then you shouldn't be in business.
+> If you aren't making a positive difference to other people's lives, then you shouldn't be in business
 
 3. Believe in your ideas and be the best
-* If you aren't proud of what you're doing, why should anybody else be?
-* Stay focused on being the best at everything you do and, if you want it to, the rest will follow
+> If you aren't proud of what you're doing, why should anybody else be?  
+> Stay focused on being the best at everything you do and, if you want it to, the rest will follow
 
 4. Have fun and look after your team
-* If you're not having fun, then it's probably time to call it quits and try something else.
+> If you're not having fun, then it's probably time to call it quits and try something else
 
 5. Don't give up
-* The easy thing to do is to throw in the towel, but try and try again and you'll be amazed.
+> The easy thing to do is to throw in the towel, but try and try again and you'll be amazed
 
 6. Listen, take lots of notes and keep setting new challenges
-* Listen more and talk less.
-* Take notes - lots of notes
-* Keep track of your goals
+> Listen more and talk less  
+> Take notes - lots of notes  
+> Keep track of your goals
 
 7. Delegate and spend more time with your family
-* The most important thing of all is to spend time with your family, so learn to delegate
-* Get your family's input on new ideas
+> The most important thing of all is to spend time with your family, so learn to delegate  
+> Get your family's input on new ideas
 
 8. Turn off that laptop and iPhone and get your derriere out there
-* Switch everything off on a regular basis and get out into the world
-* Life isn't a dress rehearsal
+> Switch everything off on a regular basis and get out into the world  
+> Life isn't a dress rehearsal
 
 9. Communicate, collaborate, and communicate some more
-* Keep it simple, stupid, and above all else keep it coming
-* Build open work environments that invite people to intermingle and share their visions
+> Keep it simple, stupid, and above all else keep it coming  
+> Build open work environments that invite people to intermingle and share their visions
 
 10. Do what you love and have a couch in the cushion
-* As long as you are surrounded by the people you love and doing what you love, it doesn't really matter where you are.
+> As long as you are surrounded by the people you love and doing what you love, it doesn't really matter where you are
