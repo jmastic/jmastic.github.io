@@ -5,9 +5,9 @@
 > You're guaranteed to miss every shot you don't take
 
 ### The Dying Art of Listening
-> Leadership attributes: integrity, sense of humor, entrepreneurial spirit, ultra-gregarious, truly care about their people, be able to delegate work and credit where due
-> Nobody has ever learned anything listening to themselves speak
-> Get out into the thick of things on a regular basis
+> Leadership attributes: integrity, sense of humor, entrepreneurial spirit, ultra-gregarious, truly care about their people, be able to delegate work and credit where due  
+> Nobody has ever learned anything listening to themselves speak  
+> Get out into the thick of things on a regular basis  
 > Take lots of notes
 
 ### Mirror Mirror
