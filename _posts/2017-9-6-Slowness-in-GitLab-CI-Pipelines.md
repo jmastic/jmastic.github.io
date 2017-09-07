@@ -19,7 +19,7 @@ For Ubuntu:
 # MIN HOUR DAY MONTH DAYOFWEEK	COMMAND
 # reboot the server every night
 0 3 * * * /sbin/shutdown -r +5
-# clear the cache directory for gitlab-runner on Sunday mornings
+# clear the cache for gitlab-runner on Sunday mornings
 0 2 * * Sun rm -rf /home/gitlab-runner/cache
 ```
 
