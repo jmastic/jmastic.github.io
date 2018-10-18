@@ -48,6 +48,10 @@ permalink: /resume/
 *	Created leaderboards to help drive store-level fundraising for the St. Jude Children’s Research Hospital
 *	Developed a virtual rewards system to increase employee engagement
 
+## PROJECTS
+-----------
+[whatisontheway.com](http://whatisontheway.com) is a new way to search for places around you. Instead of searching around a single point, this site can look for new and exciting points of interest along your travel route! See what restaurants are between you and your office. What hotels are convenient on your road trip? Find all this and more on [whatisontheway.com](http://whatisontheway.com)!
+
 ## EDUCATION
 -----------
 BS, Computer Science; Eastern Michigan University
