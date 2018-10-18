@@ -12,13 +12,19 @@ permalink: /resume/
 ## WORK EXPERIENCE
 -----------------
 
-### Manager of TV Apps Client Development  
-**Nagrastar, LLC (2016-Present)**
+### Senior Software Development Engineer
+**Conga (2017-Present)**
+* Design and develop new enterprise-grade services used by Conga products; design, develop, and maintain existing products and services with new features, bug fixes, and developer experience improvements.
+* Implemented a new unit test solution for a pure Javascript product using Karma, Mocha, Chai, and Istanbul.
+* Implemented localization of an existing product using Polyglot.
 
-* Manage the TV App Client Development team; directly supervise eight IT professionals and work cross-functionally with project managers and product managers to meet business objectives
+### Manager of TV Apps Client Development  
+**Nagrastar, LLC (2016-2017)**
+
+* Managed the TV App Client Development team; directly supervised eight IT professionals and worked cross-functionally with project managers and product managers to meet business objectives
 *	Led the development efforts for multiple high-profile applications showcased at CES in 2015 and 2016
-*	Read and analyze complex technical documents including project requirements, design documentation, project timelines, and contracts; fill in for the scrum master when necessary
-*	Collaborate with technology vendors, including Microsoft and Samsung, to drive technology solutions to provide a better customer experience
+*	Read and analyzed complex technical documents including project requirements, design documentation, project timelines, and contracts; filled in for the scrum master when necessary
+*	Collaborated with technology vendors, including Microsoft and Samsung, to drive technology solutions to provide a better customer experience
 
 ### Senior Web Developer  
 **Nagrastar, LLC (2014-2016)**
@@ -48,7 +54,7 @@ BS, Computer Science; Eastern Michigan University
 
 ## SKILLS
 --------
-* JavaScript (jQuery, BackboneJS, UnderscoreJS, RequireJS)
+* JavaScript (React, Backbone, Vanilla)
 * HTML
 * CSS/CSS3
 * SQL/MySQL
@@ -57,10 +63,8 @@ BS, Computer Science; Eastern Michigan University
 
 ## ACTIVITIES
 -------------
-* Former bass guitarist of rock bands “View” and “Death of a Hero”
+* Current bass guitarist for "The Dotards". Former bass guitarist of rock bands “View” and “Death of a Hero”.
 * Developed applications for use in Human Computer  Interaction research
-* Volunteer for the Colorado Pug Rescue
-* Freelance web developer
 
 ## CONTACT
 ---------
