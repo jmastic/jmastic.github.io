@@ -6,69 +6,87 @@ permalink: /resume/
 
 ## PROFESSIONAL SUMMARY
 -----------------------
-*	Software development manager with 10 years of IT experience, including managing projects and teams of technical professionals in agile development environments
-*	Bachelor’s degree in Computer Science
+### Leadership
+Promoted to lead engineering teams based on strong technical and leadership skills; Experience managing diverse software development teams and projects with aggressive timelines in Agile and startup environments  
+### Software Development
+Over 10 years of professional experience developing applications with a diverse front end toolbox, including React.js, BackboneJS, HTML5, and CSS3  
+### Education
+Bachelor’s degree in Computer Science, Eastern Michigan University
 
 ## WORK EXPERIENCE
 -----------------
 
-### Senior Software Development Engineer
-**Conga (2017-Present)**
-* Design and develop new enterprise-grade services used by Conga products; design, develop, and maintain existing products and services with new features, bug fixes, and developer experience improvements.
-* Implemented a new unit test solution for a pure Javascript product using Karma, Mocha, Chai, and Istanbul.
-* Implemented localization of an existing product using Polyglot.
+### Manager of Engineering
+**Conga (2018 - Present)**
+* Manage a team of 8 software engineers working on a new eSignature product built in Java and React.js
+* Work closely with Product Team to define market needs, team priorities, and product roadmap
+* Planned and executed a whole team summit week to drive knowledge sharing and alignment between product and technology goals for my engineering team
+* Overseeing migration of product infrastructure from ElasticBeanstalk to Docker and Kubernetes
+* Drove engineering security initiatives, including SOC 2 compliance measures of auditing and account security, and new secure application development training for engineers
+* Participate in hiring events as the representative for Conga’s Engineering team
+* Monthly participation and presentation in Conga Basecamp, the on-boarding and training week for new hires
 
-### Manager of TV Apps Client Development  
+#### Senior Software Development Engineer
+**Conga (2017-2018)**
+* As a **Senior Software Development Engineer**, lead the development of the Conga Grid product for Salesforce
+* Implemented a new CI/CD pipeline to improve deployment accuracy
+* Standardized code review process and automated linting to greatly improve code readability and stability
+* Introduced unit testing framework using Karma, Mocha, and Chai to improve product feature stability and overall quality
+* Utilized C# on .NET framework to build a shared microservice to improve security and performance for Conga products communicating with Salesforce APIs over REST
+* **Promoted to Manager of Engineering** in October 2018
+
+### Senior Manager of TV Apps Client Development  
 **Nagrastar, LLC (2016-2017)**
 
-* Managed the TV App Client Development team; directly supervised eight IT professionals and worked cross-functionally with project managers and product managers to meet business objectives
-*	Led the development efforts for multiple high-profile applications showcased at CES in 2015 and 2016
-*	Read and analyzed complex technical documents including project requirements, design documentation, project timelines, and contracts; filled in for the scrum master when necessary
-*	Collaborated with technology vendors, including Microsoft and Samsung, to drive technology solutions to provide a better customer experience
+* Lead the development of client-facing TV applications in the Pay TV industry
+  * Manage a team of 9 software engineers working on large, cross-functional projects
+  * Implemented 3 new team meeting formats to boost engagement, creativity, and collaboration
+  * Promoted from Senior Web Developer to a leadership role in 2016
 
-### Senior Web Developer  
+#### Senior Web Developer  
 **Nagrastar, LLC (2014-2016)**
 
-*	Developed single page applications for use in the Pay TV industry; promoted to manager based on demonstrated leadership skills and ability to communicate effectively with all levels of the organization
-*	Deployed a GIT software control system to improve code quality, code visibility, and reduce application development time
-*	Implemented a new build application system to reduce complexity and errors in the application release process
+* **Lead the development of multiple apps showcased at CES** in 2016 and 2015, including Hopper Arcade, Disney, Dish Music, and Vevo
+* Utilized Node.js to run build and deploy scripts for web applications and as a local development server
+* Oversaw the smooth transition to a new application framework (React.js) to improve user experience and reduce development time
+* Collaborate with technology vendors, including Microsoft and Samsung, to drive technology solutions and provide a better customer experience
+* **Establish best practices** and processes to ship high-quality solutions with minimal bugs
+  * Deployed a GIT version control system to improve code quality, code visibility, and reduce application development time
+  * Implemented a new application build system to reduce complexity and errors in the application release process
 
 ### Senior Web Developer  
 **Live Smart Solutions (2012-2014)**
 
-*	Lead the Creative Development team; developed online content for and maintained the company website
-*	Lead A/B testing processes to optimize the hiring funnel; implemented tests resulting in an online conversion rate improvement of more than 70%
-*	Lead daily scrum meetings for the Development team
-
-### Web Application Developer  
-**Domino's Pizza World Resource Center (2010-2012)**
-
-*	Developed innovative web applications and staged an internal LMS; supported 5,000 stores
-*	Designed and developed an online portal to deliver operations-technology training
-*	Created leaderboards to help drive store-level fundraising for the St. Jude Children’s Research Hospital
-*	Developed a virtual rewards system to increase employee engagement
+*	**Lead the Creative Development team** and developed online content for a database-driven website
+* Utilized a customized CMS to manage website updates
+* Lead A/B testing processes to optimize the hiring funnel; implemented tests resulting in an online conversion rate of more than 70%
+* **Lead daily scrum meetings** for the Sales Engineering team
 
 ## PROJECTS
 -----------
-[whatisontheway.com](http://whatisontheway.com) is a new way to search for places around you. Instead of searching around a single point, this site can look for new and exciting points of interest along your travel route! See what restaurants are between you and your office. What hotels are convenient on your road trip? Find all this and more on [whatisontheway.com](http://whatisontheway.com)!
+* Created [whatisontheway.com](http://whatisontheway.com), a site to locate points of interest along a route on Google Maps
+* Built an iOS app using Swift to share real-time pro basketball player shoe endorsements
+* Utilized Jekyll to rebrand my [personal website](https://justinmastic.com) and streamline website updates
 
 ## EDUCATION
 -----------
-BS, Computer Science; Eastern Michigan University
+**Bachelor’s Degree in Computer Science**, Eastern Michigan University
 
 ## SKILLS
 --------
-* JavaScript (React, Backbone, Vanilla)
-* HTML
-* CSS/CSS3
-* SQL/MySQL
-* GIT/SVN
+* JavaScript (React.js, BackboneJS, Vanilla)
+* AWS
+* A/B Testing
+* SQL / MySQL
+* GIT / SVN
+* SDLC
+* Salesforce
 * Agile Development
 
 ## ACTIVITIES
 -------------
 * Current bass guitarist for "The Dotards". Former bass guitarist of rock bands “View” and “Death of a Hero”.
-* Developed applications for use in Human Computer  Interaction research
+* Developed applications for use in Human Computer Interaction research
 
 ## CONTACT
 ---------
