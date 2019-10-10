@@ -13,7 +13,7 @@ Over 10 years of professional experience developing applications with a diverse 
 ### Education
 Bachelor’s degree in Computer Science, Eastern Michigan University
 
-## WORK EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 -----------------
 
 ### Manager of Engineering
@@ -67,6 +67,7 @@ Bachelor’s degree in Computer Science, Eastern Michigan University
 * Created [whatisontheway.com](http://whatisontheway.com), a site to locate points of interest along a route on Google Maps
 * Built an iOS app using Swift to share real-time pro basketball player shoe endorsements
 * Utilized Jekyll to rebrand my [personal website](https://justinmastic.com) and streamline website updates
+* Developed applications for use in Human Computer Interaction research
 
 ## EDUCATION
 -----------
@@ -86,7 +87,6 @@ Bachelor’s degree in Computer Science, Eastern Michigan University
 ## ACTIVITIES
 -------------
 * Current bass guitarist for "The Dotards". Former bass guitarist of rock bands “View” and “Death of a Hero”.
-* Developed applications for use in Human Computer Interaction research
 
 ## CONTACT
 ---------
