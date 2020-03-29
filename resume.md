@@ -16,7 +16,7 @@ Bachelor’s degree in Computer Science, Eastern Michigan University
 ## PROFESSIONAL EXPERIENCE
 -----------------
 
-### Manager of Engineering
+### Senior Manager of Engineering
 **Conga (2018 - Present)**
 * Manage a team of 8 software engineers working on a new eSignature product built in Java and React.js
 * Work closely with Product Team to define market needs, team priorities, and product roadmap
