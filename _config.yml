@@ -29,7 +29,7 @@ footer-links:
   twitter: jmastic
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: 110646789319732670399
+  googleplus: # 110646789319732670399
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -41,7 +41,7 @@ google_analytics: UA-16226669-3
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.justinmastic.com
+url: https://justinmastic.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
