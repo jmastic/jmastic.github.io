@@ -9,7 +9,7 @@ permalink: /resume/
 ### Leadership
 Promoted to lead engineering teams based on strong technical and leadership skills; Experience managing diverse software development teams and projects with aggressive timelines in Agile and startup environments  
 ### Software Development
-Over 10 years of professional experience developing applications with a diverse front end toolbox, including React.js, BackboneJS, HTML5, and CSS3  
+Over ten years of professional experience developing applications with a diverse technical skill set, across all stages of the SDLC  
 ### Education
 Bachelor’s degree in Computer Science, Eastern Michigan University
 
@@ -18,21 +18,23 @@ Bachelor’s degree in Computer Science, Eastern Michigan University
 
 ### Senior Manager of Engineering
 **Conga (2018 - Present)**
-* Manage a team of 10 software engineers working on a new eSignature product built in Java and React.js
-* Work closely with Product Team to define market needs, team priorities, and product roadmap
-* Planned and executed a whole team summit week to drive knowledge sharing and alignment between product and technology goals for my engineering team
-* Overseeing migration of product infrastructure from ElasticBeanstalk to Docker and Kubernetes
-* Drove engineering security initiatives, including SOC 2 compliance measures of auditing and account security, and new secure application development training for engineers
-* Participate in hiring events as the representative for Conga’s Engineering team
-* Monthly participation and presentation in Conga Basecamp, the on-boarding and training week for new hires
+
+* Grew team from four engineers to ten, working on a new high growth eSignature product
+* Work closely with Product team to define market needs, team priorities, and product roadmap
+* Plan and execute annual team summit week to drive knowledge sharing and alignment between product and technology goals for my engineering team
+* Oversaw migration of product infrastructure from AWS Elastic Beanstalk to Kubernetes
+* Driving engineering security initiatives, including SOC 2 Type 2 compliance measures of auditing and account security, and new secure application development training for engineers
+* Driving cost optimization of AWS resources, saving over $60,000 annually to date
+* **Promoted to Senior Manager of Engineering** in February 2020
 
 #### Senior Software Development Engineer
 **Conga (2017-2018)**
+
 * As a **Senior Software Development Engineer**, lead the development of the Conga Grid product for Salesforce
-* Implemented a new CI/CD pipeline to improve deployment accuracy
-* Standardized code review process and automated linting to greatly improve code readability and stability
-* Introduced unit testing framework using Karma, Mocha, and Chai to improve product feature stability and overall quality
-* Utilized C# on .NET framework to build a shared microservice to improve security and performance for Conga products communicating with Salesforce APIs over REST
+* Implemented a new CI/CD pipeline to automatically run unit tests and reduce manual steps in the deployment process
+* Standardized the code review process and automated linting to greatly improve code readability and stability
+* Introduced a unit testing framework using Karma, Mocha, and Chai to improve product feature stability and overall quality
+* Built a shared microservice with C# to improve security and performance for Conga products communicating with Salesforce REST APIs
 * **Promoted to Manager of Engineering** in October 2018
 
 ### Senior Manager of TV Apps Client Development  
@@ -65,9 +67,7 @@ Bachelor’s degree in Computer Science, Eastern Michigan University
 ## PROJECTS
 -----------
 * Created [whatisontheway.com](http://whatisontheway.com), a site to locate points of interest along a route on Google Maps
-* Built an iOS app using Swift to share real-time pro basketball player shoe endorsements
 * Utilized Jekyll to rebrand my [personal website](https://justinmastic.com) and streamline website updates
-* Developed applications for use in Human Computer Interaction research
 
 ## EDUCATION
 -----------
@@ -80,13 +80,12 @@ Bachelor’s degree in Computer Science, Eastern Michigan University
 * A/B Testing
 * SQL / MySQL
 * GIT / SVN
-* SDLC
 * Salesforce
-* Agile Development
 
 ## ACTIVITIES
 -------------
 * Current bass guitarist for "The Dotards". Former bass guitarist of rock bands “View” and “Death of a Hero”.
+* Tabletop RPG crafting
 
 ## CONTACT
 ---------
