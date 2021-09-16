@@ -4,9 +4,9 @@ title: My name is Justin Mastic.
 permalink: /about/
 ---
 
-As a software development manager and web developer with over eight years of experience working in agile corporate and startup environments, I understand how to balance the needs of developers, management, and clients.  
+As a software development manager and web developer with over ten years of experience working in agile corporate and startup environments, I understand how to balance the needs of developers, management, and clients.  
 
-In my current role, I manage a software development team consisting of eight technical professionals. To deliver results I focus on understanding technical and functional specifications, managing and coordinating resources and processes, and keeping the development team on track.  
+In my current role, I manage a software development team consisting of twelve technical professionals. To deliver results I focus on understanding technical and functional specifications, managing and coordinating resources and processes, and keeping the development team on track.  
 
 Experience has taught me that effective IT leaders are not measured by the number of coding tasks completed, but by the effectiveness of their team. I seek to understand each team member’s unique background, strengths, and goals in order to connect them with opportunities to grow.  
 
