@@ -7,7 +7,7 @@ permalink: /resume/
 ## PROFESSIONAL SUMMARY
 -----------------------
 ### Leadership
-Promoted to lead engineering teams based on strong technical and leadership skills; Experience managing diverse software development teams and projects with aggressive timelines in Agile and startup environments  
+Experience managing diverse software development teams and projects with aggressive timelines in Agile and startup environments; Lead teams by focusing on trust, empathy, and quality, while providing strong technical direction and mentorship  
 ### Software Development
 Over ten years of professional experience developing applications with a diverse technical skill set, across all stages of the SDLC  
 ### Education
@@ -16,16 +16,17 @@ Bachelor’s degree in Computer Science, Eastern Michigan University
 ## PROFESSIONAL EXPERIENCE
 -----------------
 
-### Senior Manager of Engineering
-**Conga (2018 - Present)**
+### Director of Engineering
+**Conga (2018-Present)**
 
-* Grew team from four engineers to ten, working on a new high growth eSignature product
+* Grew team from four engineers to eleven, working on a new high growth eSignature product
 * Work closely with Product team to define market needs, team priorities, and product roadmap
 * Plan and execute annual team summit week to drive knowledge sharing and alignment between product and technology goals for my engineering team
 * Oversaw migration of product infrastructure from AWS Elastic Beanstalk to Kubernetes
 * Driving engineering security initiatives, including SOC 2 Type 2 compliance measures of auditing and account security, and new secure application development training for engineers
 * Driving cost optimization of AWS resources, saving over $60,000 annually to date
 * **Promoted to Senior Manager of Engineering** in February 2020
+* **Promoted to Director of Engineering** in March 2022
 
 #### Senior Software Development Engineer
 **Conga (2017-2018)**
