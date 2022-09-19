@@ -108,7 +108,7 @@ Bachelor’s degree in Computer Science, Eastern Michigan University
 
 ---
 
-- Current bass guitarist for "The Dotards". Former bass guitarist of rock bands “View” and “Death of a Hero”.
+- Current bass guitarist for "The Dotards". Former bass guitarist of rock bands “[View](https://viewtheband.com/)” and “[Death of a Hero](https://www.youtube.com/playlist?list=PLy9v_CuZDD1tj7Id8Vy6IVsDJc2gXJmph)”.
 - Tabletop RPG crafting
 
 ## CONTACT
