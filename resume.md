@@ -121,6 +121,8 @@ Bachelor’s degree in Computer Science, Eastern Michigan University
 
 ## CONTACT
 
+---
+
 <style>
 input[type=text], input[type=email], textarea, select {
   width: 100%;
