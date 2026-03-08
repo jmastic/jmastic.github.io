@@ -58,11 +58,14 @@
         flex-grow: 0;
         flex-shrink: 1;
         flex-basis: auto;
+        overflow-y: scroll;
+        overflow-x: clip;
       }
       nav {
         position: absolute;
         top: 10px;
         right: 10px;
+        font-size: 2rem;
       }
       nav a {
         /* background: #000; */
@@ -109,6 +112,7 @@
       const fitText = (index) => {
         $(`.textbox`).textfill({
           maxFontPixels: -1,
+          changeLineHeight: true,
         });
       };
 
@@ -129,7 +133,6 @@
         setText(cols[1].map((row) => row.trim()).join("\n"), 1);
         $(".textbox").css("width", "calc(100%/2)");
         fitText(0);
-        fitText(1);
         return Math.min(
           parseInt($(".textbox:nth-child(1) span").css("fontSize")),
           parseInt($(".textbox:nth-child(2) span").css("fontSize"))
@@ -146,8 +149,6 @@
         setText(cols[2].map((row) => row.trim()).join("\n"), 2);
         $(".textbox").css("width", "calc(100%/3)");
         fitText(0);
-        fitText(1);
-        fitText(2);
         return Math.min(
           parseInt($(".textbox:nth-child(1) span").css("fontSize")),
           parseInt($(".textbox:nth-child(2) span").css("fontSize")),
@@ -170,6 +171,7 @@
         if (oneColFontSize > twoColFontSize && oneColFontSize > threeColFontSize) {
           resetColumns();
           setOneColumn(text);
+          $(".textbox span").css("fontSize", parseInt($(".textbox span").css("font-size")) - 2 + "px");
         }
         // 2 is going to be our "preferred" sizing
         if (twoColFontSize >= oneColFontSize && twoColFontSize >= threeColFontSize) {

@@ -14,7 +14,8 @@ Rippin' someone's head off
 No human contact
 And if you interact
 Your life is on contract
-Your best bet is to stay away, motherfucker!
+Your best bet is to stay away,
+motherfucker!
 It's just one of those days
 
 It's all about the he says/she says bullshit
@@ -33,7 +34,8 @@ You better watch your back
 And if you're stuck up
 You're just lucked up
 Next in line to get fucked up
-Your best bet is to stay away, motherfucker!
+Your best bet is to stay away,
+motherfucker!
 It's just one of those days
 
 It's all about the he says/she says bullshit

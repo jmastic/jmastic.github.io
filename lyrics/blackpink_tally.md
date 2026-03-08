@@ -18,7 +18,8 @@ Little weird how
 
 Everybody tells me to play nice
 Everybody judge, but looking twice
-But my body don't belong to, nah-uh-uh, none of them though
+But my body don't belong to, nah-uh-uh
+none of them though
 And I'm not gonna change 'cause you say so
 
 I say "fuck it" when I feel it
@@ -50,7 +51,8 @@ But that's not girly
 
 Everybody tells me to play nice
 Everybody judge, but looking twice
-But my body don't belong to, nah-uh-uh, none of them though
+But my body don't belong to, nah-uh-uh,
+none of them though
 And I'm not gonna change 'cause you say so
 
 I say "fuck it" when I feel it

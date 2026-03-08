@@ -31,13 +31,7 @@ Another picture in my
 Memory, memory
 Now show some manners to your
 Auntie, auntie
-You might also like
-B For Boy
-SAPATX
-Cool, Daddy Cool
-Kid Rock
-Creep
-Radiohead
+
 Why don′t you leave us alone?
 Another paranoia
 
@@ -65,6 +59,7 @@ Hang yourself
 Hello hello, he can′t complain
 Hello hello, quit mumbling
 Hello, hello...
+
 Hello hello my favorite chain
 Hello hello I meant to say
 Hello hello it's lost again
