@@ -166,7 +166,7 @@
         if (!text) {
           text = getContent();
         }
-        const oneColFontSize = setOneColumn(text);
+        const oneColFontSize = setOneColumn(text) - 2;
         // Now, let's try 2 columns
         const twoColFontSize = setTwoColumns(text);
         // Now, let's try 3 columns
