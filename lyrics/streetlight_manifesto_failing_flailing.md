@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: Streetlight Manifesto - Failing, Flailing
+artist: Streetlight Manifesto
+song: Failing, Flailing
 index: 16
 ---
 

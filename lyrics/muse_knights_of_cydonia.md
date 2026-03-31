@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: Muse - Knights of Cydonia
+artist: Muse
+song: Knights of Cydonia
 index: 11
 ---
 

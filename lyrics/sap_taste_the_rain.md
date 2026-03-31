@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: Sap - Taste The Rain
+artist: Sap
+song: Taste The Rain
 index: 14
 ---
 

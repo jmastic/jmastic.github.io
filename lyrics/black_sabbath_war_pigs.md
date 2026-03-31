@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: Black Sabbath - War Pigs
+artist: Black Sabbath
+song: War Pigs
 index: 3
 ---
 

@@ -15,40 +15,6 @@
     <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter" />
 
-    <script type="text/javascript" src="/lyrics/setlist_2026.js"></script>
-
-    <script>
-      const sortedSetlist = setlist.sort((a, b) => {
-        if (a.index < b.index) return -1;
-        if (a.index > b.index) return 1;
-        return 0;
-      });
-
-      const formatLinkDestination = (item) => {
-        return `/lyrics/${item.band.toLowerCase().replaceAll(" ", "_")}_${item.song
-          .toLowerCase()
-          .replaceAll(" ", "_")
-          .replaceAll(",", "")}`;
-      };
-
-      const linkTemplate = (item) => {
-        const link = document.createElement("a");
-        link.href = formatLinkDestination(item);
-        link.textContent = `${item.band} - ${item.song}`;
-
-        const wrapper = document.createElement("p");
-        wrapper.appendChild(link);
-
-        return wrapper;
-      };
-
-      $(function () {
-        sortedSetlist.map((item) => {
-          document.querySelector("#SetList").append(linkTemplate(item));
-        });
-      });
-    </script>
-
     <style>
       html,
       body {
@@ -73,6 +39,6 @@
   </head>
 
   <body>
-    <div id="SetList"></div>
+    {{content}}
   </body>
 </html>

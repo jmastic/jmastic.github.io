@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: Refused - Summerholidays Vs. Punkroutine
+artist: Refused
+song: Summerholidays Vs. Punkroutine
 index: 13
 ---
 

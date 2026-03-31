@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: Green Day - She
+artist: Green Day
+song: She
 index: 2
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: The Beatles - Happiness Is A Warm Gun
+artist: The Beatles
+song: Happiness Is A Warm Gun
 index: 4
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: Common Rider - Classics Of Love
+artist: Common Rider
+song: Classics Of Love
 index: 1
 ---
 

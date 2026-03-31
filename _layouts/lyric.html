@@ -14,7 +14,7 @@
 
     <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
     <script type="text/javascript" src="/jquery.textfill.min.js"></script>
-    <script type="text/javascript" src="/lyrics/setlist_2026.js"></script>
+    <script type="text/javascript" src="../setlist.js"></script>
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter" />
 
@@ -193,24 +193,38 @@
         var regex = /(<([^>]+)>)/gi;
         return text.replace(regex, "");
       };
-
-      const currentIndex = parseInt("{{page.index}}");
-      const navNext = currentIndex + 1;
-      const navPrevious = currentIndex - 1;
     </script>
 
     <script>
       const sortedSetlist = setlist.sort((a, b) => {
-        if (a.index < b.index) return -1;
-        if (a.index > b.index) return 1;
+        const indexComparison = a.index ?? 9999999 - b.index ?? 9999999;
+        if (indexComparison !== 0) {
+          return indexComparison;
+        }
+        
+        const bandComparison = a.band.localeCompare(b.band);
+        if (bandComparison !== 0) {
+          return bandComparison;
+        }
+        
+        const songComparison = a.song.localeCompare(b.song);
+        if (songComparison !== 0) {
+          return songComparison;
+        }
         return 0;
       });
+
+      const currentIndex = sortedSetlist.findIndex((item) => {
+        return item.artist == "{{page.artist}}" && item.song == "{{page.song}}";
+      })
+      const navNext = (currentIndex + 1) % sortedSetlist.length;
+      const navPrevious = (currentIndex - 1) % sortedSetlist.length;
 
       const formatLinkDestination = (item) => {
         if (!item) {
           return "#";
         }
-        return `/lyrics/${item.band.toLowerCase().replaceAll(" ", "_")}_${item.song
+        return `../${item.artist.toLowerCase().replaceAll(" ", "_")}_${item.song
           .toLowerCase()
           .replaceAll(" ", "_")
           .replaceAll(",", "")}`;
@@ -220,21 +234,13 @@
         // Set Previous
         document.querySelector("nav .prev").setAttribute(
           "href",
-          formatLinkDestination(
-            sortedSetlist.find((item) => {
-              return item.index === currentIndex - 1;
-            })
-          )
+          formatLinkDestination(sortedSetlist.at(navPrevious))
         );
 
         // Set Next
         document.querySelector("nav .next").setAttribute(
           "href",
-          formatLinkDestination(
-            sortedSetlist.find((item) => {
-              return item.index === currentIndex + 1;
-            })
-          )
+          formatLinkDestination(sortedSetlist.at(navNext))
         );
       });
     </script>
@@ -250,7 +256,7 @@
     <nav>
       <a class="prev" href="#">⏮️</a>
       <a class="next" href="#">⏭️</a>
-      <a class="menu" href="/lyrics/">🔼</a>
+      <a class="menu" href="../">🔼</a>
     </nav>
   </body>
 </html>

@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: Muse - Plug in Baby
+artist: Muse
+song: Plug in Baby
 index: 15
 ---
 

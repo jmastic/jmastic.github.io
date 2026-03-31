@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: The Suicide Machines - Hey
+artist: The Suicide Machines
+song: Hey
 index: 5
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: Nirvana - All Apologies
+artist: Nirvana
+song: All Apologies
 index: 19
 ---
 

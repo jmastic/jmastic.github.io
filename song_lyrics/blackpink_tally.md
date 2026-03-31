@@ -1,0 +1,73 @@
+---
+layout: lyric
+title: Blackpink - Tally
+artist: Blackpink
+song: Tally
+---
+
+I say "fuck it" when I feel it
+'Cause no one's keepin' tally
+I do what I want with who I like
+I ain't gon' conceal it
+While you talkin' all that shit
+I'll be gettin' mine, gettin' mine
+
+Don't apologize for my behavior
+If you're offended, I don't care
+Starin' at me 'stead of starin' in the mirror
+Little weird how
+
+Everybody tells me to play nice
+Everybody judge, but looking twice
+But my body don't belong to, nah-uh-uh
+none of them though
+And I'm not gonna change 'cause you say so
+
+I say "fuck it" when I feel it
+'Cause no one's keepin' tally
+I do what I want with who I like
+I ain't gon' conceal it
+While you talkin' all that shit
+I'll be gettin' mine, gettin' mine
+Yeah, I say "fuck it" when I feel it
+'Cause no one's keepin' tally
+I do what I want with who I like
+And I ain't gon' conceal it
+I'll just do it like the boys say
+I'm gettin' mine, gettin' mine
+
+Told me to play it cool
+I break the rules, I'm breakin' hearts in two
+Warned me to make the rules
+Or play the fool, it ain't that hard to choose
+Take apart the do's and don'ts
+And lose the won'ts, I'm gettin' mine
+Mines is mine, yours is mine
+This is mine, get in line
+
+Sometimes, I like to go play dirty
+Just like all of the fuck boys do
+That's my choice and there's no one I'm hurtin'
+But that's not girly
+
+Everybody tells me to play nice
+Everybody judge, but looking twice
+But my body don't belong to, nah-uh-uh,
+none of them though
+And I'm not gonna change 'cause you say so
+
+I say "fuck it" when I feel it
+'Cause no one's keepin' tally
+I do what I want with who I like
+I ain't gon' conceal it
+While you talkin' all that shit
+I'll be gettin' mine, gettin' mine
+Yeah, I say "fuck it" when I feel it
+'Cause no one's keepin' tally
+I do what I want with who I like
+And I ain't gon' conceal it
+I'll just do it like the boys say
+I'm gettin' mine, gettin' mine
+
+(Yeah, I say "fuck it" when I feel it)
+(And I ain't gon' conceal it)

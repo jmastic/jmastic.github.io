@@ -1,6 +1,8 @@
 ---
 layout: lyric
-title: Blackpink - Tally
+title: BLACKPINK - Tally
+artist: BLACKPINK
+song: Tally
 index: 7
 ---
 

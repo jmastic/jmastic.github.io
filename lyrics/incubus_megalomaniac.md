@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: Incubus - Megalomaniac
+artist: Incubus
+song: Megalomaniac
 index: 0
 ---
 

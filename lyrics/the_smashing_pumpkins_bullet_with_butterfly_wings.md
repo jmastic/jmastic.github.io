@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: The Smashing Pumpkins - Bullet With Butterfly Wings
+artist: The Smashing Pumpkins
+song: Bullet With Butterfly Wings
 index: 12
 ---
 

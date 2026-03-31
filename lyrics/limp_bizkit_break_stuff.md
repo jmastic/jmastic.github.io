@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: Limp Bizkit - Break Stuff
+artist: Limp Bizkit
+song: Break Stuff
 index: 8
 ---
 

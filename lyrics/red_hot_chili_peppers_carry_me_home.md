@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: Red Hot Chili Peppers - Carry Me Home
+artist: Red Hot Chili Peppers
+song: Carry Me Home
 index: 17
 ---
 

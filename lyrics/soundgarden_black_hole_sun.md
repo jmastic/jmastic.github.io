@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: Soundgarden - Black Hole Sun
+artist: Soundgarden
+song: Black Hole Sun
 index: 18
 ---
 

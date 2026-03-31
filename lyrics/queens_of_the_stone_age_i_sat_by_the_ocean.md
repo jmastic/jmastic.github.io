@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: Queens of the Stone Age - I Sat by the Ocean
+artist: Queens of the Stone Age
+song: I Sat by the Ocean
 index: 9
 ---
 

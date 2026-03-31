@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: Arctic Monkeys - 505
+artist: Arctic Monkeys
+song: 505
 index: 20
 ---
 

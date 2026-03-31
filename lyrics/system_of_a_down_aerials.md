@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: System Of A Down - Aerials
+artist: System Of A Down
+song: Aerials
 index: 6
 ---
 

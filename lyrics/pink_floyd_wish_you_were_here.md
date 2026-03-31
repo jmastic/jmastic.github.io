@@ -1,6 +1,8 @@
 ---
 layout: lyric
 title: Pink Floyd - Wish You Were Here
+artist: Pink Floyd
+song: Wish You Were Here
 index: 10
 ---
 
