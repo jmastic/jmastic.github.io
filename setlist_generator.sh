@@ -44,12 +44,13 @@ generate_setlist () {
     song=${song_line//"song: "/}
     index_line=$(grep -im 1 "index: " $file)
     index=${index_line//"index: "/}
+    index_for_sort=$(printf "%08d" "$index")
 
     if [[ -z "$index" ]]
     then
-      song_array_item="null$DELIMITER$artist_for_sort$DELIMITER$song$DELIMITER$artist"
+      song_array_item="null$DELIMITER$artist_for_sort$DELIMITER$song$DELIMITER$artist$DELIMITER$index"
     else      
-      song_array_item="$index$DELIMITER$artist_for_sort$DELIMITER$song$DELIMITER$artist"
+      song_array_item="$index_for_sort$DELIMITER$artist_for_sort$DELIMITER$song$DELIMITER$artist$DELIMITER$index"
     fi
 
     songs_list+=("$song_array_item")
