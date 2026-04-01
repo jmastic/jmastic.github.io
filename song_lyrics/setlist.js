@@ -26,8 +26,14 @@ const setlist = [{
       artist: "Common Rider",
       song: "Classics Of Love",
     },{
+      artist: "The Cranberries",
+      song: "Zombie",
+    },{
       artist: "Creedence Clearwater Revival",
       song: "Bad Moon Rising",
+    },{
+      artist: "Dead To Me",
+      song: "Visiting Day",
     },{
       artist: "Foo Fighters",
       song: "My Hero",
@@ -78,6 +84,9 @@ const setlist = [{
       song: "Break Stuff",
     },{
       artist: "Muse",
+      song: "Hysteria",
+    },{
+      artist: "Muse",
       song: "Knights of Cydonia",
     },{
       artist: "Muse",
@@ -92,11 +101,17 @@ const setlist = [{
       artist: "Nirvana",
       song: "All Apologies",
     },{
+      artist: "Nirvana",
+      song: "Heart-Shaped Box",
+    },{
       artist: "The Offspring",
       song: "Gotta Get Away",
     },{
       artist: "The Offspring",
       song: "Original Prankster",
+    },{
+      artist: "The Offspring",
+      song: "Staring at the Sun",
     },{
       artist: "Pink Floyd",
       song: "Wish You Were Here",
@@ -116,6 +131,12 @@ const setlist = [{
       artist: "Queens of the Stone Age",
       song: "No One Knows",
     },{
+      artist: "Rage Against The Machine",
+      song: "Killing In the Name",
+    },{
+      artist: "Rage Against The Machine",
+      song: "Sleep Now In the Fire",
+    },{
       artist: "Rancid",
       song: "Journey to the End of the East Bay",
     },{
@@ -130,6 +151,15 @@ const setlist = [{
     },{
       artist: "Red Hot Chili Peppers",
       song: "Dani California",
+    },{
+      artist: "Red Hot Chili Peppers",
+      song: "I Could Have Lied",
+    },{
+      artist: "Red Hot Chili Peppers",
+      song: "Parallel Universe",
+    },{
+      artist: "Red Hot Chili Peppers",
+      song: "Scar Tissue",
     },{
       artist: "Red Hot Chili Peppers",
       song: "Soul to Squeeze",
@@ -177,7 +207,13 @@ const setlist = [{
       song: "Reelin' In The Years",
     },{
       artist: "Streetlight Manifesto",
+      song: "A Better Place, a Better Time",
+    },{
+      artist: "Streetlight Manifesto",
       song: "Failing, Flailing",
+    },{
+      artist: "Styx",
+      song: "Renegade",
     },{
       artist: "The Suicide Machines",
       song: "Hey",
@@ -191,9 +227,21 @@ const setlist = [{
       artist: "System Of A Down",
       song: "Toxicity",
     },{
+      artist: "Third Eye Blind",
+      song: "Jumper",
+    },{
+      artist: "The Warning",
+      song: "Automatic Sun",
+    },{
       artist: "Weezer",
       song: "El Scorcho",
     },{
       artist: "Weezer",
+      song: "Only In Dreams",
+    },{
+      artist: "Weezer",
       song: "Say It Ain't So",
+    },{
+      artist: "Wolfmother",
+      song: "Joker And The Thief",
     },];
