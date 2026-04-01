@@ -71,6 +71,9 @@ const setlist = [{
       artist: "Incubus",
       song: "Megalomaniac",
     },{
+      artist: "Led Zeppelin",
+      song: "Living Loving Maid",
+    },{
       artist: "Limp Bizkit",
       song: "Break Stuff",
     },{
@@ -92,6 +95,9 @@ const setlist = [{
       artist: "The Offspring",
       song: "Gotta Get Away",
     },{
+      artist: "The Offspring",
+      song: "Original Prankster",
+    },{
       artist: "Pink Floyd",
       song: "Wish You Were Here",
     },{
@@ -110,8 +116,23 @@ const setlist = [{
       artist: "Queens of the Stone Age",
       song: "No One Knows",
     },{
+      artist: "Rancid",
+      song: "Journey to the End of the East Bay",
+    },{
+      artist: "Red Hot Chili Peppers",
+      song: "Around The World",
+    },{
       artist: "Red Hot Chili Peppers",
       song: "Carry Me Home",
+    },{
+      artist: "Red Hot Chili Peppers",
+      song: "Charlie",
+    },{
+      artist: "Red Hot Chili Peppers",
+      song: "Dani California",
+    },{
+      artist: "Red Hot Chili Peppers",
+      song: "Soul to Squeeze",
     },{
       artist: "Refused",
       song: "Summerholidays Vs. Punkroutine",

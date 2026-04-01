@@ -1,0 +1,68 @@
+---
+layout: lyric
+title: The Offspring - Original Prankster
+artist: The Offspring
+song: Original Prankster
+---
+
+You can do it!
+
+Until the break of dawn – life, life
+Cannot go by the letter – time, time
+Prozac can make it better – noise, noise
+Any kind will do
+Can you feel it slip away when it's all on you (hey, hey)
+Crime, crime – rockin' like Janet Reno – time time
+Eighteen and life in Chino – Freud, Freud
+All along it's true
+Well you'll see there comes a day catches up to you, yeah!
+
+Knock down the walls – it's alive in you!
+Knock down the place – you're alone, it's true!
+Knock down the walls – it's alive in you!
+You gotta keep your head up through it all
+You're gonna bust out on it (Original Prankster)
+Break out, yeah! (Original, yeah)
+Bust out on it (Original Prankster)
+You never stop now, stop now
+That's what the main man say!
+
+You can do it!
+
+You know it smells like shit – God damn!
+Tag Team the Double Header
+Son of Sam; fire always makes it better
+Navigate with style and aplomb
+Cause wherever you're at, that's the tip you's on (hey, hey)
+Lies lies – says he's down in the Bahamas – tries tries
+Bangin' little hoochie mamas – no way
+None of this is true
+Well you'll see there comes a day when the joke's on you yeah!
+
+Knock down the walls – it's alive in you!
+Knock down the place – you're alone, it's true!
+Knock down the walls – it's alive in you!
+You gotta keep your head up through it all
+You're gonna bust out on it (Original Prankster)
+Break out, yeah! (Original, yeah)
+Bust out on it (Original Prankster)
+You never stop now, stop now
+That's what the main man say!
+
+(Hey) You can do it
+
+Dime, dime – so good to see ya
+Nine, nine – don't wanna be ya
+Nine, nine – don't wanna be ya
+Crime, crime – fine sinsemilla
+Well you'll see there comes a day catches up to you, yeah!
+
+Knock down the walls – it's alive in you!
+Knock down the place – you're alone, it's true!
+Knock down the walls – it's alive in you!
+You gotta keep your head up through it all
+You're gonna bust out on it (Original Prankster)
+Break out, yeah! (Original, yeah)
+Bust out on it (Original Prankster)
+You never stop now, stop now
+Stop now stop now that's what the main man say!
