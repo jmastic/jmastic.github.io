@@ -210,6 +210,9 @@ const setlist = [{
       song: "A Better Place, a Better Time",
     },{
       artist: "Streetlight Manifesto",
+      song: "Everything Went Numb",
+    },{
+      artist: "Streetlight Manifesto",
       song: "Failing, Flailing",
     },{
       artist: "Styx",
