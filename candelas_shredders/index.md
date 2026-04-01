@@ -1,6 +1,6 @@
 ---
 layout: lyric_home
-title: All Songs
+title: Candelas Shredders
 ---
 
 <script type="text/javascript" src="./setlist.js"></script>
