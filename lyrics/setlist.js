@@ -105,12 +105,12 @@ const setlist = [
     index: 00000020,
   },
   {
-    artist: "The Presidents of the United States of America",
+    artist: "The Presidents of The United States of America",
     song: "Kitty",
     index: 00000021,
   },
   {
-    artist: "The Presidents of the United States of America",
+    artist: "The Presidents of The United States of America",
     song: "Lump",
     index: 00000022,
   },
