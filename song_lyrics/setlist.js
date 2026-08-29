@@ -69,6 +69,10 @@ const setlist = [
   },
   {
     artist: "Green Day",
+    song: "Jesus of Suburbia",
+  },
+  {
+    artist: "Green Day",
     song: "Longview",
   },
   {
