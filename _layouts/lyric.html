@@ -117,7 +117,7 @@
       const fitText = (index) => {
         $(`.textbox`).textfill({
           maxFontPixels: -1,
-          changeLineHeight: true,
+          changeLineHeight: true
         });
       };
 
@@ -127,7 +127,10 @@
         fitText(0);
         // All right, so we've pasted it and it's sized to a single column.
         // Let's get the font size and see if we can make it larger.
-        return parseInt($(".textbox span").css("fontSize"));
+        return {
+          fontSize: parseInt($(".textbox span").css("fontSize")),
+          heightInContainer: parseInt($(".textbox span").css("height")) / parseInt($(".textbox").css("height"))
+        }
       };
 
       const setTwoColumns = (text) => {
@@ -138,10 +141,15 @@
         setText(cols[1].map((row) => row.trim()).join("\n"), 1);
         $(".textbox").css("width", "calc(100%/2)");
         fitText(0);
-        return Math.min(
-          parseInt($(".textbox:nth-child(1) span").css("fontSize")),
-          parseInt($(".textbox:nth-child(2) span").css("fontSize"))
-        );
+        return {
+          fontSize: Math.min(
+            parseInt($(".textbox:nth-child(1) span").css("fontSize")),
+            parseInt($(".textbox:nth-child(2) span").css("fontSize"))
+          ),
+          heightInContainer: Math.max(
+            parseInt($(".textbox:nth-child(1) span").css("height")) / parseInt($(".textbox").css("height")),
+            parseInt($(".textbox:nth-child(2) span").css("height")) / parseInt($(".textbox").css("height"))
+        )}
       };
 
       const setThreeColumns = (text) => {
@@ -154,11 +162,17 @@
         setText(cols[2].map((row) => row.trim()).join("\n"), 2);
         $(".textbox").css("width", "calc(100%/3)");
         fitText(0);
-        return Math.min(
-          parseInt($(".textbox:nth-child(1) span").css("fontSize")),
-          parseInt($(".textbox:nth-child(2) span").css("fontSize")),
-          parseInt($(".textbox:nth-child(3) span").css("fontSize"))
-        );
+        return {
+          fontSize: Math.min(
+            parseInt($(".textbox:nth-child(1) span").css("fontSize")),
+            parseInt($(".textbox:nth-child(2) span").css("fontSize")),
+            parseInt($(".textbox:nth-child(3) span").css("fontSize"))
+          ),
+          heightInContainer: Math.max(
+            parseInt($(".textbox:nth-child(1) span").css("height")) / parseInt($(".textbox").css("height")),
+            parseInt($(".textbox:nth-child(2) span").css("height")) / parseInt($(".textbox").css("height")),
+            parseInt($(".textbox:nth-child(3) span").css("height")) / parseInt($(".textbox").css("height"))
+        )}
       };
 
       const refit = (text) => {
@@ -166,11 +180,14 @@
         if (!text) {
           text = getContent();
         }
-        const oneColFontSize = setOneColumn(text) - 2;
+        const oneCol = setOneColumn(text);
+        const oneColFontSize = oneCol.fontSize;
         // Now, let's try 2 columns
-        const twoColFontSize = setTwoColumns(text);
+        const twoCol = setTwoColumns(text);
+        const twoColFontSize = twoCol.fontSize;
         // Now, let's try 3 columns
-        const threeColFontSize = setThreeColumns(text);
+        const threeCol = setThreeColumns(text);
+        const threeColFontSize = threeCol.fontSize;
 
         // If 1 column has bigger text, use it
         if (oneColFontSize > twoColFontSize && oneColFontSize > threeColFontSize) {
@@ -183,7 +200,7 @@
           resetColumns();
           setTwoColumns(text);
         }
-        if (threeColFontSize > oneColFontSize && threeColFontSize > twoColFontSize) {
+        if ((threeColFontSize > oneColFontSize && threeColFontSize > twoColFontSize) || twoCol.heightInContainer > 1.1) {
           resetColumns();
           setThreeColumns(text);
         }
