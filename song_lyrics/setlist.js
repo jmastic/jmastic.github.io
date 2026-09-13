@@ -13,6 +13,10 @@ const setlist = [
   },
   {
     artist: "Arctic Monkeys",
+    song: "Arabella",
+  },
+  {
+    artist: "Arctic Monkeys",
     song: "R U Mine?",
   },
   {
@@ -48,12 +52,20 @@ const setlist = [
     song: "Visiting Day",
   },
   {
+    artist: "Dexter and the Moonrocks",
+    song: "Freakin' Out",
+  },
+  {
     artist: "Foo Fighters",
     song: "My Hero",
   },
   {
     artist: "Franz Ferdinand",
     song: "Take Me Out",
+  },
+  {
+    artist: "Glass Bridges",
+    song: "Echo",
   },
   {
     artist: "Goldfinger",
@@ -106,6 +118,10 @@ const setlist = [
   {
     artist: "Incubus",
     song: "Megalomaniac",
+  },
+  {
+    artist: "KALEO",
+    song: "Hot Blood",
   },
   {
     artist: "Led Zeppelin",
@@ -268,6 +284,10 @@ const setlist = [
     song: "Taste The Rain",
   },
   {
+    artist: "Slomosa",
+    song: "In My Mind's Desert",
+  },
+  {
     artist: "The Smashing Pumpkins",
     song: "Bullet With Butterfly Wings",
   },
@@ -314,6 +334,10 @@ const setlist = [
   {
     artist: "Third Eye Blind",
     song: "Jumper",
+  },
+  {
+    artist: "Third Eye Blind",
+    song: "Semi-Charmed Life",
   },
   {
     artist: "The Warning",
