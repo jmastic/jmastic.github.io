@@ -28,6 +28,8 @@ title: The Curmudgeons - 2027 Setlist
     return `./${item.artist.toLowerCase().replaceAll(" ", "_")}_${item.song
       .toLowerCase()
       .replaceAll(" ", "_")
+      .replaceAll("'", "")
+      .replaceAll("/", "")
       .replaceAll(",", "")}`;
   };
 
